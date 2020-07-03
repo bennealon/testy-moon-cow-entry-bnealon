@@ -12,6 +12,10 @@ export class AppService {
     'allanson',
     'smith',
     'nealon',
+    'coulton',
+    'sharp',
+    'brown',
+    'warner',
   ];
 
   getHello(): string {
