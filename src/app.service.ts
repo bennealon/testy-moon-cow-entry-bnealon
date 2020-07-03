@@ -11,6 +11,7 @@ export class AppService {
     'measen',
     'allanson',
     'smith',
+    'nealon',
   ];
 
   getHello(): string {
